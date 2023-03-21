@@ -24,6 +24,15 @@ Basic Concepts of
         - Cypress
         - Playwright
         - Selenium
-- Nodejs
-    - What it is
-    - npm
+- Agile
+    - Scrum
+        - What and why
+        - Scrum with Kanban
+    - BDD
+        - Specflow
+        - Gherkin
+    - TDD
+- Tools & Apps
+    - Nodejs
+        - What it is
+        - npm
