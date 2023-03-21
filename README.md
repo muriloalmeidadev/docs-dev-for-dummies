@@ -14,7 +14,7 @@ Basic Concepts of
         - Pull
 - Docker
     - What it is and what it does
-    - Local Testing using docker
+    - Local Testing using docker containers
     - Compose
 - Testing
     - Unit Testing
@@ -24,3 +24,6 @@ Basic Concepts of
         - Cypress
         - Playwright
         - Selenium
+- Nodejs
+    - What it is
+    - npm
