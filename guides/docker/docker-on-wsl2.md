@@ -25,7 +25,7 @@ Installation is pretty simple, click, choose a username and a password and wait 
 
 ## WSL Configuration
 
-To understand more about WSL configuration and `.wslconfig` and `wsl.conf` files go to WSL Advanced Configuration, basic stuff can be configured following the above settings.
+To understand more about WSL configuration and `.wslconfig` and `wsl.conf` files go to [WSL Advanced Configuration](https://learn.microsoft.com/pt-br/windows/wsl/wsl-config#wsl-2-settings), basic stuff can be configured following the above settings.
 
 ### Latest Version
 
